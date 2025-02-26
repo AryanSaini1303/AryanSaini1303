@@ -1,5 +1,6 @@
 # 💫 About Me:
 🚀 Tech Enthusiast | Full Stack Developer | AI Innovator
+
 Currently leading as CTO at RYM Energy, I specialize in web development, AI, and IoT 🌍💡. With 2+ years of experience, I've built cutting-edge projects like an AI-driven HR portal, a Spotify clone, and an AI-powered drive-through system 🏆. I’ve secured 1st place at HackAIthon, developed the patent-filed IDP Portal, and ranked 4th at the NRL Hackathon 🏅. Passionate about building scalable apps, optimizing AI workflows, and leading tech teams, I thrive on solving complex problems 🔥.
 
 
