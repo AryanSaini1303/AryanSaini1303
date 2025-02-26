@@ -1,5 +1,6 @@
 # 💫 About Me:
-🚀 Full Stack Developer | AI Enthusiast 🤖<br>I’m Aryan, a passionate full-stack developer with expertise in Next.js, Prisma, PostgreSQL, and AI-driven applications. 🎯 I’ve built innovative projects, from AI-powered HR portals to real-time navigation systems using Google Maps API. 🌍 As the Head of Web Dev & AI at Coder’s Club, I love leading teams and solving complex problems. 💡 Always exploring new tech, I aim to integrate AI seamlessly into web & app development. 🚀
+🚀 Tech Enthusiast | Full Stack Developer | AI Innovator
+Currently leading as CTO at RYM Energy, I specialize in web development, AI, and IoT 🌍💡. With 2+ years of experience, I've built cutting-edge projects like an AI-driven HR portal, a Spotify clone, and an AI-powered drive-through system 🏆. I’ve secured 1st place at HackAIthon, developed the patent-filed IDP Portal, and ranked 4th at the NRL Hackathon 🏅. Passionate about building scalable apps, optimizing AI workflows, and leading tech teams, I thrive on solving complex problems 🔥.
 
 
 ## 🌐 Socials:
