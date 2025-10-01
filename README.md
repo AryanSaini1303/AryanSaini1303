@@ -1,7 +1,11 @@
 # 💫 About Me:
-🚀 Tech Enthusiast | Full Stack Developer | AI Innovator
+🚀 Full Stack Dev | AI & IoT Enthusiast
 
-Currently leading as CTO at RYM Energy, I specialize in web development, AI, and IoT 🌍💡. With 2+ years of experience, I've built cutting-edge projects like an AI-driven HR portal, a Spotify clone, and an AI-powered drive-through system 🏆. I’ve secured 1st place at HackAIthon, developed the patent-filed IDP Portal, and ranked 4th at the NRL Hackathon 🏅. Passionate about building scalable apps, optimizing AI workflows, and leading tech teams, I thrive on solving complex problems 🔥.
+I love building cool stuff that actually works at scale. From Eva AI (a voice assistant with WhatsApp integration, real-time voice automation & PWA magic) to Terra Scan (a vehicle monitoring system with deep learning & automated license plate scanning), and an AI-powered drive-through system to an AI-driven HR portal 🌍—I’ve been busy experimenting, breaking, and shipping.
+
+🏆 Along the way, I’ve snagged 1st place at HackAIthon with Resonix (wireless energy transmission via AI), built the patent-filed IDP Portal, grabbed the KPIT Sparkle Gold Award, and ranked 4th at the NRL Hackathon.
+
+🔥 Obsessed with clean code, AI workflows, and solving problems that feel impossible until they’re done.
 
 
 ## 🌐 Socials:
