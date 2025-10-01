@@ -3,7 +3,7 @@
 
 I love building cool stuff that actually works at scale. From Eva AI (a voice assistant with WhatsApp integration, real-time voice automation & PWA magic) to Terra Scan (a vehicle monitoring system with deep learning & automated license plate scanning), and an AI-powered drive-through system to an AI-driven HR portal 🌍—I’ve been busy experimenting, breaking, and shipping.
 
-🏆 Along the way, I’ve snagged 1st place at HackAIthon with Resonix (wireless energy transmission via AI), built the patent-filed IDP Portal, grabbed the KPIT Sparkle Gold Award, and ranked 4th at the NRL Hackathon.
+🏆 Along the way, I’ve snagged 1st place at HackAIthon with Resonix, built the patent-filed IDP Portal, grabbed the KPIT Sparkle Gold Award, and ranked 4th at the NRL Hackathon.
 
 🔥 Obsessed with clean code, AI workflows, and solving problems that feel impossible until they’re done.
 
